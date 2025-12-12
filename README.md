@@ -1,2 +1,2 @@
-# Final-Programacion-C-Notas
-Sistema de Gestión de Notas en C
+# Final-Programacion-Notas
+Sistema de Gestión de Notas
